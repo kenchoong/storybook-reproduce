@@ -1,4 +1,4 @@
-# storybook-reproduce
+# storybook-problem-reproduce
 reproduce of the Storybook infinite loading problem 
 
 Step to reproduce 
